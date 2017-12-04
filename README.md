@@ -1,2 +1,0 @@
-# synonyms
-relative words select
