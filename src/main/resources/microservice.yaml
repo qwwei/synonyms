@@ -21,6 +21,6 @@ cse:
   rest:
     address: 0.0.0.0:8180
   credentials:
-    accessKey: MWQYMJQDKOXFBYCK5OGN
-    secretKey: 2ToLCTizR7nN5zuqyFIbVdnaKFJP1FoCsMQcGdhL
+    accessKey: DIINTOYRXDJCA1ZVLS7U
+    secretKey: fm2WRjuDBZljrdPn5hcb9Wau6OzenjHhZSvbJvia
     akskCustomCipher: default
