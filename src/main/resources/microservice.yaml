@@ -1,7 +1,7 @@
-APPLICATION_ID: springmvctest
+APPLICATION_ID: servicenew
 service_description:
-  name: demoservice
-  version: 0.0.1
+  name: synonyms
+  version: 0.0.2
   properties:
     allowCrossApp: false
 cse:
@@ -10,17 +10,17 @@ cse:
       address: https://cse.cn-north-1.myhwclouds.com:443
       instance:
         watch: false
-  config:
-    client:
-      serverUri: https://cse.cn-north-1.myhwclouds.com:443
-      refreshMode: 1
-      refresh_interval: 5000
-  monitor:
-    client:
-      serverUri: https://cse.cn-north-1.myhwclouds.com:443
+#  config:
+#    client:
+#      serverUri: https://cse.cn-north-1.myhwclouds.com:443
+#      refreshMode: 1
+#      refresh_interval: 5000
+#  monitor:
+#    client:
+#      serverUri: https://cse.cn-north-1.myhwclouds.com:443
   rest:
-    address: 0.0.0.0:8080
+    address: 0.0.0.0:8180
   credentials:
-    accessKey: ak
-    secretKey: sk
+    accessKey: MWQYMJQDKOXFBYCK5OGN
+    secretKey: 2ToLCTizR7nN5zuqyFIbVdnaKFJP1FoCsMQcGdhL
     akskCustomCipher: default
