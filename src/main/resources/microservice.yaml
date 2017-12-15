@@ -1,4 +1,4 @@
-APPLICATION_ID: springmvctest
+APPLICATION_ID: qwwei
 service_description:
   name: qwwei
   version: 0.0.1
@@ -19,7 +19,7 @@ cse:
     client:
       serverUri: https://cse.cn-north-1.myhwclouds.com:443
   rest:
-    address: 0.0.0.0:8080
+    address: 114.115.201.63:32100
   credentials:
     accessKey: ak
     secretKey: sk
