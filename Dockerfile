@@ -1,4 +1,4 @@
-FROM 100.125.0.198:20202/hwcse/dockerhub-java:8-jre-alpine
+FROM https://cse.cn-north-1.myhwclouds.com:443/hwcse/dockerhub-java:8-jre-alpine
 
 WORKDIR /home/apps/
 ADD target/qwwei-1.0.0.jar .
